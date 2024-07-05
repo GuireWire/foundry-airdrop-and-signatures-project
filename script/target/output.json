@@ -1,0 +1,50 @@
+[
+    {
+        "inputs": [
+            "0xe909C3c8eC96C25Dc663B784040C4Eb99276E801",
+            "25000000000000000000"
+        ],
+        "proof": [
+            "0xf17a6e981ab4d737cbf07de4721e4572bef2c11e081be4a69ee0984ad93f3092",
+            "0x843a0cb3a5af08960101b4754153ef58d773eb2cdc9c1c9f196bce5080a7a651"
+        ],
+        "root": "0xb10f8966e5b9f16fbebf47b0566ba11f149be0b8e312431ba13230fcc262e5e4",
+        "leaf": "0x0fc339235021119edfb1c390a09be9af63ccef132e1a3bfd552b6e85fa18e76d"
+    },
+    {
+        "inputs": [
+            "0x1b694f02481c9680035AE9E4B37be3DC7F738e8B",
+            "25000000000000000000"
+        ],
+        "proof": [
+            "0x0fc339235021119edfb1c390a09be9af63ccef132e1a3bfd552b6e85fa18e76d",
+            "0x843a0cb3a5af08960101b4754153ef58d773eb2cdc9c1c9f196bce5080a7a651"
+        ],
+        "root": "0xb10f8966e5b9f16fbebf47b0566ba11f149be0b8e312431ba13230fcc262e5e4",
+        "leaf": "0xf17a6e981ab4d737cbf07de4721e4572bef2c11e081be4a69ee0984ad93f3092"
+    },
+    {
+        "inputs": [
+            "0xe2601b2c271c94602ac95dDd68ab5f3CDbccb8Bf",
+            "25000000000000000000"
+        ],
+        "proof": [
+            "0xa5d18c5be5419bc1e2c5461c1b14f1ea42803154480ea0dfccf934f6569d9599",
+            "0x844fa16b57be66e51839ee2096ed3adda12cc1a0ea41b19590d9b50f6f314d37"
+        ],
+        "root": "0xb10f8966e5b9f16fbebf47b0566ba11f149be0b8e312431ba13230fcc262e5e4",
+        "leaf": "0xd2c6a45f840b4665b44c4019d0df8015baade2db95b1814abec627f4264301d8"
+    },
+    {
+        "inputs": [
+            "0x718e48BC353433b0bAfbbe47Ed9404D8A0E326ab",
+            "25000000000000000000"
+        ],
+        "proof": [
+            "0xd2c6a45f840b4665b44c4019d0df8015baade2db95b1814abec627f4264301d8",
+            "0x844fa16b57be66e51839ee2096ed3adda12cc1a0ea41b19590d9b50f6f314d37"
+        ],
+        "root": "0xb10f8966e5b9f16fbebf47b0566ba11f149be0b8e312431ba13230fcc262e5e4",
+        "leaf": "0xa5d18c5be5419bc1e2c5461c1b14f1ea42803154480ea0dfccf934f6569d9599"
+    }
+]
